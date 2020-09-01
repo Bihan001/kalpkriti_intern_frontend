@@ -1,0 +1,33 @@
+// ALL CONSTANTS FOR REDUX, ADD NEW ONES HERE AS WELL
+
+export const ADD_MONEY = 'ADD_MONEY';
+export const ASSIGN_CREATOR = 'ASSIGN_CREATOR';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const CREATE_ACTIVITY = 'CREATE_ACTIVITY';
+export const CREATE_CREATOR = 'CREATE_CREATOR';
+export const CREATE_CUSTOMER = 'CREATE_CUSTOMER';
+export const CREATE_USER = 'CREATE_USER';
+export const DELETE_ACTIVITY = 'DELETE_ACTIVITY';
+export const DELETE_CREATOR = 'DELETE_CREATOR';
+export const EDIT_ACTIVITY = 'EDIT_ACTIVITY';
+export const EDIT_CREATOR = 'EDIT_CREATOR';
+export const EDIT_CUSTOMER = 'EDIT_CUSTOMER';
+export const GET_ACTIVITIES = 'GET_ACTIVITIES';
+export const GET_ACTIVITY = 'GET_ACTIVITY';
+export const GET_CREATOR = 'GET_CREATOR';
+export const GET_CREATORS = 'GET_CREATORS';
+export const GET_CUSTOMER = 'GET_CUSTOMER';
+export const GET_CUSTOMERS = 'GET_CUSTOMERS';
+export const GET_LANGUAGES = 'GET_LANGUAGES';
+export const GET_TASK = 'GET_TASK';
+export const GET_TASKS = 'GET_TASKS';
+export const GET_USERS = 'GET_USERS';
+export const GET_VIDEO = 'GET_VIDEO';
+export const GET_VIDEOS = 'GET_VIDEOS';
+export const LOGIN = 'LOGIN';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGOUT = 'LOGOUT';
+export const NEW_VIDEO = 'NEW_VIDEO';
+export const USER_LOADED = 'USER_LOADED';

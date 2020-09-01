@@ -1,0 +1,10 @@
+.sideScroll {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  height: 150px;
+}
+
+.sideScroll > tr {
+  display: inline-block;
+}
