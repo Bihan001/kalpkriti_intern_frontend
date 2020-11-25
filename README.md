@@ -1,4 +1,4 @@
-# tweencraft_crm_frontend
+# Tweencraft_CRM_Frontend
 
 Frontend part of CRM tool for Kalpkriti Inc.
 
